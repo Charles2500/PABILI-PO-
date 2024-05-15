@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    font-family: "Sans-serif", "Arial";
+  }
+  
+  .card {
+    width: 450px;
+    height: 350px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .profile-banner {
+    position: relative;
+    width: 100%;
+    height: 282px;
+  }
+  
+  .cover-photo {
+    width: 100%;
+    height: 100%;
+    background-image: url('https://media.sketchfab.com/models/969738152c5b490588ca96fc6927dc69/thumbnails/97f70c3fc8204c9495faeb6b46304412/d615c1acdfc04f52b2a204b410ed070d.jpeg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+  }
+
+  .profile-photo {
+    position: absolute;
+    bottom: -80px;
+    left: calc(30% - 80.5px);
+    width: 161px;
+    height: 161px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    background-image: url('https://s3-symbol-logo.tradingview.com/jollibee-foods--600.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .cover-photo1 {
+    width: 100%;
+    height: 100%;
+    background-image: url('https://assets-global.website-files.com/63f6e52346a353ca1752970e/644fb7a67678b8a9fe0db1fe_20230501T1259-96320b36-97db-4f1f-8c02-54f4c2a7cae4.jpeg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+  }
+  .profile-photo1{
+    position: absolute;
+    bottom: -80px;
+    left: calc(30% - 80.5px);
+    width: 161px;
+    height: 161px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    background-image: url('https://logolook.net/wp-content/uploads/2021/06/McDonalds-Logo.png');
+    background-size: cover;
+    background-position: center;
+  }
+  .cover-photo2 {
+    width: 100%;
+    height: 100%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsKnsYEk42IoZdRZSoes2PECldDypdsmjaPI9LtCHbQ&s');
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+  }
+  .profile-photo2{
+    position: absolute;
+    bottom: -80px;
+    left: calc(30% - 80.5px);
+    width: 161px;
+    height: 161px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    background-image: url('https://media.tenor.com/kkb548hIQfUAAAAe/kfc-logo.png');
+    background-size: cover;
+    background-position: center;
+  }
+    .cover-photo3 {
+      width: 100%;
+      height: 100%;
+      background-image: url('https://mir-s3-cdn-cf.behance.net/projects/404/ad892a157267273.63b91d4e9f454.jpg');
+      background-size: cover;
+      background-position: center;
+      border-radius: 20px;
+    }
+    .profile-photo3{
+      position: absolute;
+      bottom: -80px;
+      left: calc(30% - 80.5px);
+      width: 161px;
+      height: 161px;
+      border-radius: 50%;
+      border: 5px solid #fff;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+      background-image: url('https://i.pinimg.com/originals/e5/e5/f8/e5e5f860ea153e94a3ab5f136c2be81f.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .cover-photo4 {
+      width: 100%;
+      height: 100%;
+      background-image: url('https://www.allrecipes.com/thmb/GnAAJcJ8O4dWAyzy4Kl9J-CQBkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-Burger-King-2024-4x3orange-3486d87697e5475db53abed661150d0b.jpg');
+      background-size: cover;
+      background-position: center;
+      border-radius: 20px;
+    }
+    .profile-photo4{
+      position: absolute;
+      bottom: -80px;
+      left: calc(30% - 80.5px);
+      width: 161px;
+      height: 161px;
+      border-radius: 50%;
+      border: 5px solid #fff;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+      background-image: url('https://e7.pngegg.com/pngimages/641/486/png-clipart-burger-king-wikipedia-logo-hamburger-restaurant-burger-king-burger-king-logo.png');
+      background-size: cover;
+      background-position: center;
+  }
+  .name {
+    position: absolute;
+    bottom: 1px;
+    left: 100px;
+    width: 100%;
+    text-align: center;
+    color: #000000;
+    font-size: 27px;
+    font-weight: bold;
+  }
+  
